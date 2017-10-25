@@ -7,3 +7,5 @@ Triggering will happen once the failures reach a certain threshold, and all furt
 ## State Diagram
 
 ![State transition](https://martinfowler.com/bliki/images/circuitBreaker/state.png "State Transition")
+
+Reference [https://martinfowler.com/bliki/CircuitBreaker.html]
